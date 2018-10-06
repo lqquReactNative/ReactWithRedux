@@ -20,7 +20,7 @@ class CounterApp extends Component {
 }
 
 export default connect(state => ({
-        state: state.default,
+        state: state,
     }),
     (dispatch) => ({
         actions: bindActionCreators(counterActions, dispatch)
