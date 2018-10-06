@@ -21,7 +21,8 @@
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
-    "thunk": "0.0.1"
+    "thunk": "0.0.1",
+    "react-test-renderer": "latest"
   },
   "devDependencies": {
     "jest-expo": "30.0.0"
